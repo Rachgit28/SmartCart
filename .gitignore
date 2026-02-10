@@ -1,0 +1,13 @@
+# Datasets
+*.csv
+*.xlsx
+*.json
+data/
+datasets/
+
+# Python
+__pycache__/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
