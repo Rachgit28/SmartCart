@@ -1,6 +1,5 @@
-# Dataset files
-*.csv
+# dataset
+smartcart_customers.csv
 
-# Jupyter
+# Jupyter checkpoints
 .ipynb_checkpoints/
-
