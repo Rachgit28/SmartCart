@@ -98,6 +98,19 @@ The dataset contains **2,240 customer records** with **22 attributes** organized
 | `Recency` | Number of days since last purchase |
 | `Complain` | Customer complained in last 2 years (1 = Yes, 0 = No) |
 
+📥 Dataset
+The dataset used in this project is the Customer Personality Analysis dataset, publicly available on Kaggle.
+
+🔗 Download here: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
+
+After downloading, place the file in the project directory:
+SmartCart/
+└── marketing_campaign.csv
+
+Then update the data loading cell in the notebook to:
+df = pd.read_csv('marketing_campaign.csv')
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
