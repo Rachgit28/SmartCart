@@ -229,7 +229,6 @@ Ensure you have the following installed:
 - Principal Component Analysis (PCA)
 
 
-<<<<<<< HEAD
 ## 📊 Results & Insights
 
 ### PCA & Dimensionality Reduction
@@ -271,10 +270,7 @@ Lowest income (~$37K) and spending (~$166), 1+ children, living alone. Highest w
 High income (~$71K), high spending (~$1,190), fewer children, living alone. Highest campaign response rate at **32%** — the most receptive segment.
 > *Strategy: Personalized marketing campaigns, premium product promotions, loyalty programs*
 
----
 
-=======
->>>>>>> 9b9fc32b355ddc3477eb68685c616cd84c104179
 ## 🎓 Learning Outcomes
 
 This project demonstrates:
