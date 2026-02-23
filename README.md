@@ -98,6 +98,7 @@ The dataset contains **2,240 customer records** with **22 attributes** organized
 | `Recency` | Number of days since last purchase |
 | `Complain` | Customer complained in last 2 years (1 = Yes, 0 = No) |
 
+<<<<<<< HEAD
 ## 📥 Dataset
 
 The dataset used in this project is the **Customer Personality Analysis** dataset, publicly available on Kaggle.
@@ -116,6 +117,23 @@ Then update the data loading cell in the notebook to:
 ```python
 df = pd.read_csv('marketing_campaign.csv', sep='\t')
 ```
+=======
+📥 Dataset
+
+The dataset used in this project is the Customer Personality Analysis dataset, publicly available on Kaggle.
+
+🔗 Download here: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
+
+After downloading, place the file in the project directory:
+
+SmartCart/
+
+└── marketing_campaign.csv
+
+Then update the data loading cell in the notebook to:
+
+df = pd.read_csv('marketing_campaign.csv')
+>>>>>>> 9b9fc32b355ddc3477eb68685c616cd84c104179
 
 
 ## 🚀 Getting Started
@@ -229,6 +247,7 @@ Ensure you have the following installed:
 - Principal Component Analysis (PCA)
 
 
+<<<<<<< HEAD
 ## 📊 Results & Insights
 
 ### PCA & Dimensionality Reduction
@@ -272,6 +291,8 @@ High income (~$71K), high spending (~$1,190), fewer children, living alone. High
 
 ---
 
+=======
+>>>>>>> 9b9fc32b355ddc3477eb68685c616cd84c104179
 ## 🎓 Learning Outcomes
 
 This project demonstrates:
